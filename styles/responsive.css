@@ -1,0 +1,310 @@
+@media screen and (max-width: 600px) {
+    .nav-section {
+          width: 335px;
+          justify-content: space-between;
+          align-items: center;
+    }
+    .nav-section .hamburg{
+        width: 24px;
+        height: 24px;
+    }
+
+    .nav-container {
+        /* justify-content: center; */
+
+    }
+
+    .nav-container img {
+        width: 28px;
+        height: 33px;
+
+    }
+
+    .nav-container p {
+        font-size: 21px;
+        margin-left: 0px;
+    }
+
+    .Travel {
+        font-size: 21px;
+    }
+
+    .nav-items {
+        display: none;
+        gap: 10px;
+        margin-left: 0;
+        /* margin-top: 10px; */
+    }
+
+    .nav-items a {
+        font-size: 10px;
+    }
+
+    .section-item {
+        flex-direction: column;
+        width: 335px;
+        height: 483px;
+        justify-content: normal;
+
+    }
+    
+    .class-section img {
+        width: 335px;
+        height: 483px;
+        object-fit: cover;
+ border-radius: 16px;
+    }
+     
+    .class-explore h3 {
+        font-size: 22px;
+    
+        display: flex;
+       }
+       .class-explore p {
+        width: 304px;
+        font-size: 14px;
+       line-height: 20px;
+        margin: 5px auto;
+       }
+       .input{
+        flex-direction: column;
+        gap: 16px;
+        width: 200px;
+        height: auto;
+        align-items: center;
+        margin-left: 35px;
+        }
+        .class-main1{
+            flex-direction: column;
+            width: 335px;
+            margin: 0 auto;
+        }
+        .text-contain h1{
+            font-size: 24px;
+        }
+        .text-contain p{
+            width: 300px;
+        }
+
+        .text-contain ul{
+            width: 300px;
+        }
+        .maim-img1 {
+            margin-left: 0;
+            margin-top: 50px;
+        }
+
+.maim-img1 img {
+    width: 100%;
+}
+.destination{
+    width: 335px;
+    margin: 50px auto 0;
+ }
+.class-choose{
+    margin: 0;
+}
+.class-choose h3{
+    font-size: 24px;
+}
+
+.class-choose p{
+    width: auto;
+}
+.class-img {
+    display: flex;
+    flex-direction: column;
+}
+.chooseus{
+    width: 335px;
+    margin: 0 auto;
+}
+.class-why h3{
+    font-size: 24px;
+}
+.class-why p {
+    width: auto;
+}
+.hand-picked {
+    flex-direction: column;
+}
+.class-1 , .class-2 , .class-3{
+    width: 335px;
+}
+.class-4{
+    flex-direction: column;
+    width: 335px;
+    margin: 0 auto;
+    gap: 20px;
+}
+.class-news{
+    width: 335px;
+    padding: 10px;
+}
+.class-hr {
+    width: 300px;
+}
+.class-news input{
+    width: 325px;
+}
+.class-4 button {
+    width: 325px;
+}
+.class-75{
+    margin-left: 0;
+}
+.class-75 img{
+    width: 100%;
+}
+.class-travel{
+    width: 214.023px;
+height: 79.268px;
+}
+.class-travel h3 {
+    font-size: 15.854px;
+    margin-bottom: 0;
+}
+.class-travel h1{
+    font-size: 21.138px;
+    margin: 0;
+}
+
+footer{
+    width: 600px;
+    margin: 100px auto 0;
+}
+.class-footer {
+    width: 335px;
+    margin: 0 auto;
+}
+.class-lorem{
+    width: 300px;
+}
+
+    /* .nav-section {
+        flex-direction: column;
+
+
+    }
+
+    .nav-container {
+        justify-content: center;
+    }
+
+    .nav-items {
+        gap: 10px;
+        margin-left: 0;
+    }
+
+    .section-item {
+        width: 335px;
+
+    }
+
+    .class-section img {
+        width: 335px;
+        height: 490px;
+        object-fit: cover;
+        border-radius: 16px;
+    }
+
+    .class-explore {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 0;
+        line-height: normal;
+    }
+
+    .class-explore h3 {
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+
+    .class-explore p {
+        margin-top: 5px;
+        width: 304px;
+        font-size: 14px;
+        margin-bottom: 25px;
+
+    }
+
+    .input {
+        flex-direction: column;
+        margin-left: 50px;
+
+    }
+
+    .class-main1 {
+        flex-direction: column;
+        margin-top: 2px;
+    }
+
+    .text-contain h1 {
+        font-size: 20px;
+        margin-left: 30px;
+
+    }
+
+    .text-contain p {
+
+        font-size: 14px;
+        width: 334px;
+        font-weight: 400;
+        margin-left: 30px;
+    }
+
+    .text-contain ul {
+
+        font-size: 14px;
+        width: 334px;
+        font-weight: 400;
+        line-height: 24px;
+
+    }
+
+    .class-btn {
+        margin-left: 30px;
+        width: 150px;
+        height: 40px;
+
+
+        font-size: 18px;
+
+
+
+    }
+
+    .maim-img1 {
+        flex-direction: column;
+
+        width: 200px; */
+    /* height: 342px; */
+    /* border-radius: 16px;
+        object-fit: cover; */
+
+
+
+    /* }
+
+    .class-choose h3 {
+
+        font-size: 20px;
+
+
+    }
+
+    .class-choose p {
+        width: 309px;
+        font-size: 14px;
+    }
+
+    .class-img {
+        flex-direction: column;
+        width: 335px;
+        height: 176px;
+
+    }
+ */
+
+}
